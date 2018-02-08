@@ -1,0 +1,82 @@
+.bananagest {
+     color: rgb(255,101,1);
+     font-weight: bold;
+     font-size: 40px;
+ }
+ .logo {
+     height: 60px;
+ }
+
+body {
+	background-color: rgb(255,247,221);
+}
+
+.newdiv {
+background-color: yellow;
+}
+
+header {
+	color: rgb(255,101,1);
+	}	
+
+main {
+	width: 60%;
+}
+
+#login {
+	float: right;
+	position: relative;
+}
+#bienvenido {
+	float: left;
+	position: relative;
+	}
+#perfil {
+	float: right;
+	position: relative;
+	}
+
+#lista {
+	float: left;
+	position: relative;
+}
+
+#crear {
+	float: right;
+	position: relative;
+}
+	
+#footer {
+   position:fixed;
+   left:10px;
+   bottom:10px;
+   height:30px;
+   width:100%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(251,208,113);
+}
+
+th {
+	border: 1px solid rgb(169,169,171);
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(192,154,107);
+}
+#Proyecto {
+	font-weight: bold;
+  	font-style: normal;
+}

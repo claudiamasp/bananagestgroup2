@@ -1,0 +1,35 @@
+.bananagest {
+     color: rgb(255,101,1);
+     font-weight: bold;
+     font-size: 40px;
+ }
+ .logo {
+     height: 60px;
+ }
+ #footer {
+   position:fixed;
+   left:10px;
+   bottom:10px;
+   height:30px;
+   width:100%;
+}
+body {
+	background-color: rgb(255,247,221);
+}
+
+#centrar{
+	text-align: center;
+}
+
+main{
+   position: absolute;
+   overflow: hidden;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   border: 1px solid;
+   background-color: white;
+   padding: 20px;
+  
+
+}

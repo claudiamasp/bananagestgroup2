@@ -1,0 +1,45 @@
+.bananagest {
+     color: rgb(255,101,1);
+     font-weight: bold;
+     font-size: 40px;
+ }
+ .logo {
+     height: 60px;
+      }
+
+body {
+	background-color: rgb(255,247,221);
+}
+
+section.seccion1 {
+	float: left;
+	position: relative;
+	text-align: justify;
+}
+
+section.seccion2 {
+	float: right;
+	position: relative;
+	text-align: justify;
+}
+
+main {
+	width: 60%;
+}
+
+#enviar {
+	float: rigth;
+	text-align: left;
+} 
+
+#footer {
+   position:fixed;
+   left:10px;
+   bottom:10px;
+   height:30px;
+   width:100%;
+}
+
+header {
+	color: rgb(255,101,1);
+	}	
